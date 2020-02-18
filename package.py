@@ -2,7 +2,7 @@
 
 name = 'tk_config_basic'
 
-version = '1.3.1'
+version = "1.3.2"
 
 description = 'Based on tk-config-basic'
 
